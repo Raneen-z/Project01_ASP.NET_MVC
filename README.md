@@ -12,7 +12,7 @@ https://itsrickandmorty.azurewebsites.net/
 - 2 Models
 - 5 Views
 - Bootstrap
-- [Rick and Morty API](rickandmortyapi.com) to featch the episodes data
+- [Rick and Morty API](https://rickandmortyapi.com) to featch the episodes data
 
 
 # Project01_ASP.NET_MVC
